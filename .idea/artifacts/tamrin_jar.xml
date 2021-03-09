@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tamrin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tamrin_jar</output-path>
+    <root id="archive" name="tamrin.jar">
+      <element id="module-output" name="tamrin" />
+    </root>
+  </artifact>
+</component>

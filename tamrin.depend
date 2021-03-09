@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1611524232 source:c:\tamrin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
